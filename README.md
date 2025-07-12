@@ -15,5 +15,5 @@ Name:
 Email:
 
 Team Member 4:
-Name: Sanchari Banerjee 
-Email: sancharibanerjee928@gmail.com
+Name: Sanchari Banerjee <br>
+Email: sancharibanerjee928@gmail.com <br>
