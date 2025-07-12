@@ -2,9 +2,9 @@
 
 TEAM DETAILS:
 
-TEAM LEADER:
+TEAM LEADER: <br>
 Name: DEBANJAN BHADRA <br>
-Email: deanbhadra3123@gmail.com
+Email: deanbhadra3123@gmail.com <br>
 
 Team Member 2:
 Name:
