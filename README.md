@@ -6,9 +6,9 @@ TEAM LEADER:
 Name:
 Email:
 
-Team Member 2:
-Name:
-Email:
+Team Member 2:<br>
+Name:Shreeyanka Sahoo <br>
+Email:9836shreeyanka@gmail.com
 
 Team Member 3:
 Name:
