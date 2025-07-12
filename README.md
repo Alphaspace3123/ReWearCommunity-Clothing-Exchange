@@ -3,7 +3,7 @@
 TEAM DETAILS:
 
 TEAM LEADER:
-Name: DEBANJAN BHADRA
+Name: DEBANJAN BHADRA <br>
 Email: deanbhadra3123@gmail.com
 
 Team Member 2:
