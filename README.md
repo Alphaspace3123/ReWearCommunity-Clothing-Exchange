@@ -7,13 +7,13 @@ Name:
 Email:
 
 Team Member 2:
-Name:
-Email:
+Name: Anwesha Mitra
+Email:anwesha_mitracsbs2023@msit.edu.in
 
 Team Member 3:
-Name:
+Name:Shreeyanka Sahoo
 Email:
 
 Team Member 4:
-Name:
+Name:Sanchari Banerjee
 Email:
