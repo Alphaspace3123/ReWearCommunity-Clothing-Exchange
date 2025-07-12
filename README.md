@@ -10,9 +10,9 @@ Team Member 2:
 Name:Anwesha Mitra <br>
 Email:anwesha_mitracsbs2023@msit.edu.in <br>
 
-Team Member 3:
-Name:
-Email:
+Team Member 3:<br>
+Name:Shreeyanka Sahoo <br>
+Email:9836shreeyanka@gmail.com
 
 Team Member 4:
 Name: Sanchari Banerjee <br>
